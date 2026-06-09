@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "744479170518",
+    "project_id": "gen-lang-client-0234296586",
+    "storage_bucket": "gen-lang-client-0234296586.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744479170518:android:7c48963fcf788b840ece77",
+        "android_client_info": {
+          "package_name": "com.bestoteros.smartcalorie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCXyDuTU71yzQGXeA6vWFdnDK3WwabVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744479170518:android:dfc7cf14ae9ecf440ece77",
+        "android_client_info": {
+          "package_name": "com.example.mycompose.calorietrackerscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCXyDuTU71yzQGXeA6vWFdnDK3WwabVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

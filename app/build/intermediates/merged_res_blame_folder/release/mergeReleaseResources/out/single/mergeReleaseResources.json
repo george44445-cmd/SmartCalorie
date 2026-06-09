@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-hdpi_ic_my_icon.png.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-hdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-xxxhdpi_ic_my_icon.png.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-xxxhdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-xhdpi_ic_my_icon.png.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-xhdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-pngs-46:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/xml_backup_rules.xml.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-xxhdpi_ic_my_icon.png.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-xxhdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap_ic_my_icon.png.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap/ic_my_icon.png"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/drawable_app_logo.png.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/drawable/app_logo.png"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/drawable_camera_placeholder.png.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/drawable/camera_placeholder.png"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/mipmap-mdpi_ic_my_icon.png.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/mipmap-mdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "com.example.mycompose.calorietrackerscreen.app-release-51:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.mycompose.calorietrackerscreen.app-main-52:/xml/data_extraction_rules.xml"
+    }
+]
